@@ -12,18 +12,21 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/harshmishra-1702/Smart-Joke-Bot.git](https://github.com/harshmishra-1702/Smart-Joke-Bot.git)
+   git clone https://github.com/harshmishra-1702/Smart-Joke-Bot.git
    ```
+
 2. **Install the dependencies:**
    ```bash
-    pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
-3.**Run the Bot:**
+
+3. **Run the Bot:**
    ```bash
    python bot.py
    ```
-4. **Setup Environment Variables:**
-   Create a `.env` file in the project folder:
+
+4. **Setup Environment Variables:** Create a `.env` file in the project folder:
    ```text
    MY_SECRET_APP_NAME=JokeBot
+   ```
    
