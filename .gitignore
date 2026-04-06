@@ -179,3 +179,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+```text
+# --- My Personal Secrets ---
+.env
+
+# --- Python Environment ---
+venv/
+.venv/
+env/
+
+# --- Python Cache ---
+__pycache__/
+*.pyc
