@@ -17,6 +17,7 @@ To run this project locally, follow these steps:
 
   Bash
   pip install requests gradio python-dotenv
+  
 3. **Run the bot:**
 
   Bash
