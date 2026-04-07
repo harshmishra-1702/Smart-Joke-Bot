@@ -4,7 +4,6 @@ import os
 from dotenv import load_dotenv
 import gradio as gr
 '''harsh'''
-'''ansh'''
 
 load_dotenv()
 app_name=os.getenv("MY_SECRET_APP_NAME")
